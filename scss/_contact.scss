@@ -52,3 +52,15 @@
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid $gray-200;
 }
+.btn-accent:hover{
+  background-color: $accent;
+  color: $white;
+}
+.btn-accent{
+  border: solid 2px $secondary;
+  background-color: transparent;
+  color: $secondary;
+}
+.border{
+  border-color: $secondary;
+}
