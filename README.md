@@ -6,3 +6,9 @@ Made by:
 
 
 ## Using freelancer framework
+## To Do:
+* Fix kleuren icons
+* text invoegen
+* afbeeldingen invoegen
+* form inorde maken
+* php pagina toevoegen
