@@ -5,14 +5,14 @@
   @include heading-font;
   .navbar-brand {
     //color title start bootstrap
-    color: $accent;
+    color: $secondary;
   }
   .navbar-nav {
     margin-top: 1rem;
     letter-spacing: 0.0625rem;
     li.nav-item {
       a.nav-link {
-        color: $accent;
+        color: $secondary;
         &:hover {
           color: $white;
           background-color: $accent;
