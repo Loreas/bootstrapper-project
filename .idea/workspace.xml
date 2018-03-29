@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b824fa0-adb6-4e85-aa98-204fbbd2c52f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,12 +21,17 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+            <state relative-caret-position="-85">
+              <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+=======
+<<<<<<< HEAD
             <state relative-caret-position="340">
               <caret line="62" column="23" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="23" />
 =======
             <state relative-caret-position="462">
               <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
 >>>>>>> ed482e6f55b0efc6e597fbbeeeeda16fca0b3a99
+>>>>>>> 439b69526b8dda7e7e6c6352f7d08c2e31615dde
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
@@ -37,12 +43,29 @@
         </entry>
       </file>
 <<<<<<< HEAD
+      <file leaf-file-name="cabin.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/portfolio/cabin.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="freelancer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/freelancer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="472" lean-forward="true" selection-start-line="472" selection-end-line="472" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+=======
+<<<<<<< HEAD
       <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/form.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
 =======
+>>>>>>> 439b69526b8dda7e7e6c6352f7d08c2e31615dde
       <file leaf-file-name="_contact.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_contact.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,13 +143,13 @@
         <option value="$PROJECT_DIR$/scss/_portfolio.scss" />
         <option value="$PROJECT_DIR$/scss/_header.scss" />
         <option value="$PROJECT_DIR$/scss/_variables.scss" />
-        <option value="$PROJECT_DIR$/css/freelancer.css" />
         <option value="$PROJECT_DIR$/scss/_navbar.scss" />
         <option value="$PROJECT_DIR$/scss/_about.scss" />
         <option value="$PROJECT_DIR$/scss/freelancer.scss" />
         <option value="$PROJECT_DIR$/scss/_contact.scss" />
         <option value="$PROJECT_DIR$/form.php" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/freelancer.css" />
       </list>
     </option>
   </component>
@@ -142,12 +165,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
 <<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="7">
+=======
+<<<<<<< HEAD
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
 =======
 >>>>>>> ed482e6f55b0efc6e597fbbeeeeda16fca0b3a99
   <component name="ProjectFrameBounds" extendedState="6">
+>>>>>>> 439b69526b8dda7e7e6c6352f7d08c2e31615dde
     <option name="x" value="-8" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -170,7 +197,33 @@
             <path>
               <item name="bootstrapper-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrapper-project" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrapper-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrapper-project" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="freelancer.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="bootstrapper-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrapper-project" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrapper-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrapper-project" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrapper-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrapper-project" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 439b69526b8dda7e7e6c6352f7d08c2e31615dde
             </path>
           </expand>
           <select />
@@ -223,12 +276,23 @@
       <workItem from="1522246348735" duration="10508000" />
 =======
       <workItem from="1522246348735" duration="6033000" />
+<<<<<<< HEAD
+      <workItem from="1522346260076" duration="2460000" />
+=======
       <workItem from="1522346260076" duration="51000" />
 >>>>>>> ed482e6f55b0efc6e597fbbeeeeda16fca0b3a99
+>>>>>>> 439b69526b8dda7e7e6c6352f7d08c2e31615dde
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="14016000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+=======
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="16031000" />
 =======
@@ -237,6 +301,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+>>>>>>> 439b69526b8dda7e7e6c6352f7d08c2e31615dde
     <layout>
 <<<<<<< HEAD
 =======
@@ -492,6 +557,15 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/img/portfolio/cabin.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/freelancer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="472" lean-forward="true" selection-start-line="472" selection-end-line="472" />
+=======
     <entry file="file://$PROJECT_DIR$/css/freelancer.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -503,11 +577,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+>>>>>>> 439b69526b8dda7e7e6c6352f7d08c2e31615dde
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-85">
+          <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+=======
 <<<<<<< HEAD
         <state relative-caret-position="340">
           <caret line="62" column="23" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="23" />
@@ -515,6 +594,7 @@
         <state relative-caret-position="462">
           <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
 >>>>>>> ed482e6f55b0efc6e597fbbeeeeda16fca0b3a99
+>>>>>>> 439b69526b8dda7e7e6c6352f7d08c2e31615dde
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
