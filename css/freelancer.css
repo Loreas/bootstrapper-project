@@ -427,6 +427,21 @@ form .row:first-child .floating-label-form-group {
   border-color: #565656;
 }
 
+.fields {
+  border: 3px solid #565656;
+  border-radius: 10px;
+  padding: 0px 80px;
+  height: 60px;
+  margin-left: 20px;
+}
+
+.form {
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+}
+
 a {
   color: #d7CEC7;
 }

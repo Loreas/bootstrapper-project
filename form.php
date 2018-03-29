@@ -18,9 +18,20 @@
     <link href="css/freelancer.min.css" rel="stylesheet">
 </head>
 <body>
+ <nav class="navbar navbar-expand-lg bg-white fixed-top text-uppercase" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="./index.html">The CD project</a>
 
-Welcome <?php echo $_POST["name"]; ?><br>
-Your email address is: <?php echo $_POST["email"]; ?>
+      </div>
+    </nav>
+    <section class ="about">
+    <div class = "about">
+    <div class="lead">
+       <p class ="lead"> Bedankt <?php echo $_POST["name"]; ?>,</p>
+       <p class= "lead"> We zullen zo spoedig mogelijk antwoorden op jouw vraag! </p>
+       <p class ="lead"> Je kan een antwoord verwachten in je mailbox: <?php echo $_POST["email"]; ?><p>
+    </div>
 
+    </section>
 </body>
 </html>
