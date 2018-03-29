@@ -197,6 +197,10 @@ header.masthead h2 {
   }
 }
 
+.img-code {
+  border-radius: 30px;
+}
+
 .portfolio {
   margin-bottom: -15px;
 }
